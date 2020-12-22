@@ -8,5 +8,5 @@ Use package manager or look here: (https://www.perl.org/get.html)
 ## How to Run
 ```
 % cd day01
-% perl day01.pe
+% perl day01.pl
 ```
